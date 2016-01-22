@@ -10,13 +10,27 @@ staging area is a space where you add files before comming them to the git
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+add only files you want to commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+when developing new features which might or might not be added to the master later
+
 How do the diagrams help you visualize the branch structure?
+
+diagrams are for visualisation
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+because it will have two parents
+
+What are the pros and cons of Git automatic merging vs. always doing merges
 manually?
+
+pros are that you don't gave to waste time on it
+
+don't see any cons
+
+
